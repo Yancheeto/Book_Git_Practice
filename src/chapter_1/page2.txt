@@ -1,4 +1,8 @@
-This is page 2 of chapter one
-our Second file
-now we have git enabled
+Pull Requests
+Pull Requests are the heart of GitHub collaboration.
 
+With a pull request you are proposing that your changes should be merged (pulled in) with the master.
+
+Pull requests show content differences, changes, additions, and subtractions in colors (green and red).
+
+As soon as you have a commit, you can open a pull request and start a discussion, even before the code is finished.
