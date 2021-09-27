@@ -1,0 +1,9 @@
+
+Agile is a project management approach developed as a more flexible and efficient way to get products to market.
+The word ‘agile’ refers to the ability to move quickly and easily.
+
+Therefore, an Agile approach enables project teams to adapt faster and easier compared to other project methodologies.
+
+Many of today’s projects have more unknowns than a traditional project management methodology can adequately handle. This uncertainty makes it challenging to document requirements and adapt to changes successfully.
+
+This guide will explain the Agile methodology, which projects will benefit from an Agile approach, and how to implement one effectively.
