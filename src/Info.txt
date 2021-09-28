@@ -1,5 +1,9 @@
 The 12 Agile principles
+
 The Manifesto for Agile Software Development outlines 12 Agile principles that all projects should follow. These are:
 
 Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 The first principle of Agile methodology states that customers should receive project deliverables or iterations across regular intervals throughout the project’s life cycle, rather than just one product delivery at the end.
+
+
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
