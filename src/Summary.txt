@@ -1,0 +1,3 @@
+array – a fixed-size collection of data of the same type, which can hold zero or more items:
+
+break – a statement used to exit a loop/switch statement/labeled block; the application continues execution with the statement immediately following the containing block:
