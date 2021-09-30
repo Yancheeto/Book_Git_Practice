@@ -1,3 +1,21 @@
-array – a fixed-size collection of data of the same type, which can hold zero or more items:
+
+array –-> a fixed-size collection of data of the same type, which can hold zero or more items:
 
 break – a statement used to exit a loop/switch statement/labeled block; the application continues execution with the statement immediately following the containing block:
+
+checked exception – an Exception that is caught at the compilation time, usually in the block or thrown in the method header
+
+class – the core type in Java that defines the implementation of a particular kind of object; it defines instance and class variables and methods, as well as specifies the interfaces it implements and the immediate superclass of the class, by default Object:
+
+class method – a synonym of static class
+
+declaration – officially, this is defined as a statement that establishes an identifier and associates attributes with it, without necessarily reserving its storage or providing the implementation
+
+default – the optional destination used in a switch statement, when neither case statement matches the requested behavior:
+
+HTML – HyperText Markup Language; a web content presentation language
+
+HTTP(S) – HyperText Transfer Protocol (Secure); a protocol that defines all rules how the browser should communicate with a server
+
+Finish Line
+
