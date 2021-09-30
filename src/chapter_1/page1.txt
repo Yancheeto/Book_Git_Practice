@@ -1,4 +1,6 @@
-This is the first page of chapter 1
+Chapter 1
+
+What is method? 
 
 A method is a block of code which only runs when it is called.
 
